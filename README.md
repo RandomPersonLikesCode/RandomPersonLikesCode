@@ -1,8 +1,3 @@
-# About
+*When darkness comes, light helps you*
 
-Hello! I'm just normal random person, what I like is to do:
-
-- C Programming
-- Graphics Programming
-- Audio Programming
-- Android App Development
+Random person, truly random, my tech stack is just C and Vash scripr if you care about it, somehow :)
